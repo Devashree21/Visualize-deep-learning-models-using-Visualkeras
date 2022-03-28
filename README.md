@@ -5,7 +5,7 @@ Here is a short FAQ about this repository
 
 In this repository, we are visualizing neural network layers in a convenient way with a few lines of code.. The jupyter notebook (.ipynb) provides the code and this readme contains all the relevant information about this tutorial.
 
-**2) What is Visualkeras? **
+**2) What is Visualkeras?**
 
 Visualkeras is an open-source Python library that helps in the visualization of the Keras neural network architecture. It provides simple customization to meet a wide range of requirements and is one of the most helpful libraries for understanding how different layers are connected.
 
